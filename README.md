@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm YUAN WANG</h1>
 <h3 align="center">A budding Data Scientist and Machine Learning enthusiast who's passionate about AI and its limitless potential.</h3>
 
+- 🔭 I’m currently working on [Dynamic-Risk-Assessment-System:](https://github.com/williswangy/Dynamic-Risk-Assessment-System)
+
 - ⚡ Fun fact **BASI SNOWBOARD COACH**
 
 <h3 align="left">Connect with me:</h3>
@@ -13,5 +15,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=williswangy&show_icons=true&locale=en&layout=compact" alt="williswangy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=williswangy&show_icons=true&locale=en" alt="williswangy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=williswangy&" alt="williswangy" /></p>
