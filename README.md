@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm YUAN WANG</h1>
 <h3 align="center">A budding Data Scientist and Machine Learning enthusiast who's passionate about AI and its limitless potential.</h3>
 
-- 🔭 I’m currently working on [Dynamic-Risk-Assessment-System:](https://github.com/williswangy/Dynamic-Risk-Assessment-System)
-
 - ⚡ Fun fact **BASI SNOWBOARD COACH**
 
 <h3 align="left">Connect with me:</h3>
